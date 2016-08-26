@@ -1,0 +1,112 @@
+/* --------------------------------------
+=========================================
+COLOR : PINK COLOR-7
+
+MAIN COLOR CODE: #ff1a83
+
+DEEP COLOR CODE: #b70054
+=========================================
+----------------------------------------- */
+::-moz-selection {
+    background: #ff1a83;
+}
+
+::selection {
+    background: #ff1a83;
+}
+
+::-moz-selection {
+    background: #ff1a83;
+}
+
+a {
+    color: #ff1a83;
+}
+
+a:hover {
+    color: #ff1a83;
+}
+.navbar-brand i,
+.navbar-brand span{
+  color: #ff1a83;
+}
+.navbar-nav > li.active::after,
+.navbar-nav > li.active::before,
+.navbar-nav > li.active > a::before,
+.navbar-nav > li.active > a::after{
+    border-color: #ff1a83; 
+    -moz-use-text-color -moz-use-text-color #ff1a83;
+}
+.navbar-nav > li.active::after,
+.navbar-nav > li.active a > .active::before{
+    border-bottom: 1px solid #ff1a83;
+}
+.navbar-nav > li.active::after,
+.navbar-nav > li.active a ::before {
+    border-right: 1px solid #ff1a83;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus{
+  color: #ff1a83;
+}
+
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus {
+  color: #ff1a83;
+}
+.strong-color {
+    color: #ff1a83!important;
+}
+.text-white span {
+  color: #ff1a83!important;
+}
+#countdown .countdown-period{
+  color: #ff1a83;
+}
+.intro-scroll-down .mouse{
+  border:2px solid #ff1a83;;
+}
+.default-button {
+    background: #ff1a83;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b70054), color-stop(100%, #ff1a83));
+    background: -webkit-linear-gradient(top, #b70054 0%, #ff1a83 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#b70054), to(#ff1a83));
+    background: linear-gradient(to bottom, #b70054 0%, #ff1a83 100%);
+    -webkit-box-shadow: 0px 3px 0px #b70054;
+    box-shadow: 0px 3px 0px #b70054;
+}
+
+.default-button:hover {
+    background: #ff1a83 !important;
+}
+
+
+.default-button:active {
+    background: #ff1a83 !important;
+}
+
+.about-icon-wrapper .fa {
+    color: #ff1a83;
+}
+
+.single-service-icon {
+    color: #ff1a83;
+}
+
+.contact-info .fa {
+    color: #ff1a83;
+}
+.form-control:focus{
+  border-color: #ff1a83; 
+}
+
+.footer {
+    background: #ff1a83;
+}
+.copyright a{
+  color: #333;
+}
+.footer-line {
+    border-top: 1px solid #cb005d;
+}
